@@ -1,0 +1,37 @@
+Name: Apostolos Zarras
+AFM: 123456789
+Status: Single
+Income: 35000.0
+
+Receipts: 
+
+Receipt ID: 5
+Date: 2/2/2019
+Kind: Travel
+Amount: 100.0
+Company: sfsdf
+Country: sdfssdf
+City: sdfsd
+Street: sdfs
+Number: 1
+
+Receipt ID: 6
+Date: 11/12/2021
+Kind: Basic
+Amount: 4535.0
+Company: wer
+Country: wer
+City: wer
+Street: wer
+Number: 4
+
+Receipt ID: 2310
+Date: 17/5/22
+Kind: Basic
+Amount: 2000.0
+Company: BoringCo
+Country: Gre
+City: Ioa
+Street: Str
+Number: 2
+

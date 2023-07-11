@@ -1,0 +1,37 @@
+<Name>Nikos Zisis</Name>
+<AFM>130456094</AFM>
+<Status>Single</Status>
+<Income>40000.0</Income>
+
+Receipts:
+
+<Receipts>1</Receipts>
+<ReceiptID>25/2/2014</ReceiptID>
+<Date>Other</Date>
+<Kind>2000.0</Kind>
+<Amount>Omega Watches</Amount>
+<Company>Greece</Company>
+<Country>Ioannina</Country>
+<City>Kaloudi</City>
+<Street>4</Street>
+
+<Receipts>50</Receipts>
+<ReceiptID>12/12/12</ReceiptID>
+<Date>Basic</Date>
+<Kind>2000.0</Kind>
+<Amount>BORINGCO</Amount>
+<Company>gre</Company>
+<Country>ioa</Country>
+<City>str</City>
+<Street>2</Street>
+
+<Receipts>3</Receipts>
+<ReceiptID>5/6/2014</ReceiptID>
+<Date>Basic</Date>
+<Kind>4000.0</Kind>
+<Amount>IKEA</Amount>
+<Company>Greece</Company>
+<Country>Ioannina</Country>
+<City>Averof</City>
+<Street>100</Street>
+

@@ -1,0 +1,12 @@
+Name: Nikos Zisis
+AFM: 130456094
+Income: 40000.0
+Basic Tax: 2400.44
+Tax Decrease: -720.132
+Total Tax: 1680.308
+TotalReceiptsGathered: 3
+Entertainment: 0.0
+Basic: 6000.0
+Travel: 0.0
+Health: 0.0
+Other: 2000.0
